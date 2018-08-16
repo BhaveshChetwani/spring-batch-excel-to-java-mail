@@ -19,9 +19,7 @@ public class EmailItemProcessor implements ItemProcessor<Email, Email> {
 	@Override
 	public Email process(final Email email)
 			throws Exception {
-/**
- * test commit
- */
+
 		/**
 		 * discard the header of the records from excel sheet 
 		 * OR

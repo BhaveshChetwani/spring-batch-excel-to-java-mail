@@ -87,3 +87,9 @@ org.eclipse.core.commands.ExecutionException: Problems executing script: 'window
 
 !ENTRY org.eclipse.egit.core 4 0 2018-08-16 15:30:32.040
 !MESSAGE creating E:\work\spring\workspace\email batch\.gitignore failed
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-16 16:25:15.705
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-16 16:25:15.777
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
