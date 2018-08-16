@@ -1,0 +1,5 @@
+EmailId,Name,Status,Created,EmailGroup
+email1@host.com,name 1,status,2/1/2018 18:14,group 1
+email2@host.com,name 2,status,2/1/2018 18:17,group 2
+email3@host.com,nmae 3,status,4/22/2018 8:32,group 3
+,,,,

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmailBatch
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: com.emailbatch
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EmailBatch
+Created-By: Maven Integration for Eclipse
+
